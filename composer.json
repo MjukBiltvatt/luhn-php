@@ -1,7 +1,7 @@
 {
-  "name": "tdely/luhn",
+  "name": "mjukbiltvatt/luhn",
   "description": "PHP implementation of the Luhn algorithm.",
-  "homepage": "https://gitlab.com/tdely/luhn-php",
+  "homepage": "https://github.com/MjukBiltvatt/luhn-php",
   "keywords": [
     "luhn",
     "identification number",
